@@ -1,0 +1,17 @@
+{
+  "name": "Idle Cat Gunner",
+  "short_name": "Cat Gunner",
+  "description": "Idle Cat Gunner 手机版，内置数值修改器",
+  "lang": "zh",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#202024",
+  "theme_color": "#202024",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
